@@ -1,59 +1,26 @@
-# ProjetoBuzzfeed
+# Clone do BuzzFeed 
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
+Este projeto é um **clone simples do site BuzzFeed**, desenvolvido como atividade prática no **Bootcamp Decola Tech da Digital Innovation One (DIO)**. O principal objetivo foi reforçar o uso do Angular, criando uma estrutura básica com componentes, data binding e interação com o usuário.
 
-## Development server
+## Sobre o projeto
 
-To start a local development server, run:
+O **Clone do BuzzFeed** simula uma interface inspirada no visual do site original, com foco em:
 
-```bash
-ng serve
-```
+- Compreensão da estrutura de um projeto Angular
+- Divisão da aplicação em componentes reutilizáveis
+- Utilização de data binding para exibir informações dinâmicas
+- Prática com HTML, CSS e Angular no contexto de um layout real
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+> ⚠️ Este projeto é apenas um exercício educacional. Não é afiliado ao site original e não possui funcionalidades completas.
 
-## Code scaffolding
+## Tecnologias utilizadas
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- Angular
+- TypeScript
+- Visual Studio Code
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
+</p>

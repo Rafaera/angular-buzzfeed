@@ -1,0 +1,59 @@
+{
+  "title":"Qual estilo combina mais com você?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual seria seu look perfeito para um domingo?",
+      "options":[
+        {"id": 1, "name":"Moletom e pantufas", "alias":"A"},
+        {"id": 2, "name":"Cropped com jeans estilosinho", "alias":"B"},
+        {"id": 3, "name":"Vestido longo confortável", "alias":"A"},
+        {"id": 4, "name":"Blazer oversized e coturno", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual o seu lanche dos sonhos?",
+      "options":[
+        {"id": 1, "name":"Balde de pipoca + chocolate", "alias":"A"},
+        {"id": 2, "name":"Prato bonito digno de Instagram", "alias":"B"},
+        {"id": 3, "name":"Macarrão instantâneo e refrigerante", "alias":"A"},
+        {"id": 3, "name":"Sushi no potinho fofo com flor comestível", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Você está em casa sozinha com tempo livre. O que faz?",
+      "options":[
+        {"id": 1, "name":"Maratona de série na cama", "alias":"A"},
+        {"id": 2, "name":"Experimenta looks e grava dancinha no TikTok", "alias":"B"},
+        {"id": 3, "name":"Joga um game ou escuta música", "alias":"A"},
+        {"id": 3, "name":"Organiza o feed e grava um mini vlog", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual sua bebida favorita?",
+      "options":[
+        {"id": 1, "name":"Chocolate quente bem cremoso", "alias":"A"},
+        {"id": 2, "name":"Frappuccino estiloso com chantilly", "alias":"B"},
+        {"id": 3, "name":"Café coado na hora", "alias":"A"},
+        {"id": 3, "name":"Drink diferentão com frutas e gelo transparente", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Seu calçado favorito é...",
+      "options":[
+        {"id": 1, "name":"Chinelo ou tênis confortável", "alias":"A"},
+        {"id": 2, "name":"Botinha ou salto tratorado bem fashion", "alias":"B"},
+        {"id": 3, "name":"Crocs", "alias":"A"},
+        {"id": 3, "name":"Tênis branco plataforma com meia alta", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Team Conforto: Você é uma alma tranquila que busca bem-estar em tudo. Gosta de coisas simples, mas cheias de carinho. Crocs, moletom, travesseiro… isso é tudo que você precisa!",
+    "B": "Team Estilo: Você nasceu pra brilhar! Sempre na moda, sempre com uma referência de Pinterest na manga. Você sabe transformar qualquer situação em um desfile particular."
+  }
+}
